@@ -1,0 +1,16 @@
+langchain
+python-dotenv
+ipykernel
+langchain-community
+langchain_community
+arxiv
+wikipedia
+langchain-text-splitters
+langchain-openai
+langchain_openai
+pandas
+openai
+langchain-groq
+langchain_groq
+duckduckgo-search
+streamlit
